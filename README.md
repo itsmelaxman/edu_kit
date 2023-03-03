@@ -25,3 +25,43 @@ Edu Kit is a flutter package for building education-based mobile apps. It offers
 - **Profile**
 - **Timetable**
 
+## Folder Structure
+```md
+src/
+┃
+┣ config/
+┃ ┣ global_config.dart
+┃ ┗ config.dart
+┃
+┣ constants/
+┃ ┣ global_constants.dart
+┃ ┗ constant.dart
+┃
+┣ utils/
+┃ ┣ utility.dart
+┃ ┗ util.dart
+┃
+┣ widgets/
+┃ ┣ assignment/
+┃ ┣ attendance/
+┃ ┣ bus/
+┃ ┣ calendar/
+┃ ┣ chat/
+┃ ┣ complaint/
+┃ ┣ digital_card/
+┃ ┣ e_payment/
+┃ ┣ elearning/
+┃ ┣ exam_feedback/
+┃ ┣ exam_result/
+┃ ┣ exam_routine/
+┃ ┣ leave/
+┃ ┣ lesson_plan/
+┃ ┣ library/
+┃ ┣ notice/
+┃ ┣ notification/
+┃ ┣ online_exam/
+┃ ┣ profile/
+┃ ┣ timetable/
+┃ ┗ widget.dart
+┗
+```
