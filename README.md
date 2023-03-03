@@ -1,6 +1,12 @@
-# Edu Kit
+<br />
+<p align="center">
+    <a href="https://edukit" target="_blank"><img width="300" height="49" src="https://raw.githubusercontent.com/itsmelaxman/images/62139fd49c82c92b6ab00b6878264541f04e4f58/edukit.svg" alt="EduKit Logo"></a>
+    <br />
+    <br />
+    <b>A flutter package for building education-based mobile apps. It offers a pre-built education app kit with screens, widgets, and components to create engaging learning experiences.</b>
+    <br />
+    <br />
 
-Edu Kit is a flutter package for building education-based mobile apps. It offers a pre-built education app kit with screens, widgets, and components to create engaging learning experiences.
 
 ## Features [Widgets]
 
